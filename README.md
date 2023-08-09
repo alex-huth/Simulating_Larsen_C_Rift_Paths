@@ -10,7 +10,7 @@ The input data (e.g. ice geometry, bed elevation, ice temperature, and the inver
 
 ***
 * Compile the model following the README in Model/PROG
-* uncompress the mesh file: (cd Larsen_C_Grid/ ; tar -xzvf m_Init.tar.gz ; cd ..)
+* uncompress the mesh file: `(cd Larsen_C_Grid/ ; tar -xzvf m_Init.tar.gz ; cd ..)`
 * Run the simulations (summarized in Figure 8) using the scripts provided in `./Model/Simulations`, which contains a README with instructions.
 ***
 
