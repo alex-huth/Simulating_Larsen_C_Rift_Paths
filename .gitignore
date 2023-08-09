@@ -1,0 +1,6 @@
+*~
+*.nc
+*.vtu
+*.result
+*.pos
+!Larsen_C_Grid/m_Init.tar.gz
