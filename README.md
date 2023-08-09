@@ -8,11 +8,11 @@ The mesh for the simulations is contained within ./Larsen_C_Grid
 
 The input data (e.g. ice geometry, bed elevation, ice temperature, and the inverted fields from Figure 5) for all forward simulations is provided as an Elmer restart file: `./Larsen_C_Grid/m_init.result`.
 
-
-*Compile the model following the README in Model/PROG
-*uncompress the mesh file: (cd Larsen_C_Grid/ ; tar -xzvf m_Init.tar.gz ; cd ..)
-*Run the simulations (summarized in Figure 8) using the scripts provided in `./Model/Simulations`, which contains a README with instructions.
-
+***
+* Compile the model following the README in Model/PROG
+* uncompress the mesh file: (cd Larsen_C_Grid/ ; tar -xzvf m_Init.tar.gz ; cd ..)
+* Run the simulations (summarized in Figure 8) using the scripts provided in `./Model/Simulations`, which contains a README with instructions.
+***
 
 Please contact me with any questions!
 
